@@ -8,6 +8,13 @@
                     var b=20;   
                     //logic
                 }
+  //BUG-131 fix changes 
+  function   edit()
+                {
+                    var a=10;
+                    var b=20;   
+                    //logic
+                }
 
         </script>
     </head>
